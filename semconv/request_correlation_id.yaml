@@ -17,6 +17,5 @@ groups:
         brief: "Request correlation ID for distributed tracing"
         note: "Unique identifier for correlating requests across distributed services and traces"
         examples:
-          - "abc-123-def-456"
-          - "req-789-xyz-012"
+          - "abc-123"
         requirement_level: recommended
